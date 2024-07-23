@@ -1,0 +1,26 @@
+.heading {
+    width : 100%;
+    text-align: left;
+}
+.heading h3{
+    display : inline
+}
+.heading button{
+    float : right;
+}
+.i1{
+    width: 100%
+}
+h4{
+    background-color: rgb(249, 85, 85);
+    color: antiquewhite;
+    line-height : 2;
+}
+video{
+background: url('game_console.png');
+background-size: cover;
+background-position: center;
+padding: 25px;
+
+}
+
